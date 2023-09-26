@@ -39,6 +39,7 @@
 * 이전 단계의 완벽한 작업 완료를 가정  
  ![image](https://github.com/MiyeongEom/All_Study/assets/112458035/a0e66537-1316-41a3-a79a-2e1d8bd1bd78)  
 <br/>
+
 * 장점
   * 이해가 가장 쉬움
   * 경험이 매우 많은 개발자들만 있으면 좋은 결과 낼 것
