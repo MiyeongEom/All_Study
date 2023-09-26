@@ -46,5 +46,6 @@
   * 개발 중 요구 변경 사항 있으면 대응 어려움
   * 완벽하게 요구사항 맞춰도 개발결과에 따라 추가 요구사항 발생 가능
 <br/>
+
 ![image](https://github.com/MiyeongEom/All_Study/assets/112458035/a0e66537-1316-41a3-a79a-2e1d8bd1bd78)  
 
