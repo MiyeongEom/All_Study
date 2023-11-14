@@ -28,6 +28,7 @@
 * 초록색 표시 -> 바뀌었는데 조금 안정화되었어  
   
 #### Git  
+![image](https://github.com/MiyeongEom/All_Study/assets/112458035/41777fbe-2c62-4fda-8d3d-a33d9858de2d)  
 * untracked : 파일이 새로 등장함
 * git .add -> 얘가 staged됨
 * 커밋한 이후로 워킹과 깃 내용이 같다 -> unmodified (가장 안정화 됨)
